@@ -1,0 +1,42 @@
+[
+  {
+    "id": "b0c7f5c6-93c8-47b8-bb21-8f9c1f5c2c1a",
+    "name": "CO2 reading — Plant A — Line 2",
+    "description": "Hourly CO2 emissions snapshot from sensor network.",
+    "projectId": "GEV-PROJ-001",
+    "category": "emissions",
+    "metric": "co2e",
+    "value": 18.42,
+    "unit": "kg",
+    "sensor": {
+      "sensorId": "SENS-CO2-002",
+      "type": "CO2",
+      "firmware": "1.0.3"
+    },
+    "location": {
+      "country": "KZ",
+      "city": "Astana",
+      "site": "Plant A",
+      "lat": 51.1694,
+      "lng": 71.4491
+    },
+    "collectedAt": "2025-12-18T09:10:00.000Z",
+    "verification": {
+      "status": "pending",
+      "method": "offchain",
+      "confidence": 0.72,
+      "txHash": null
+    },
+    "createdAt": "2025-12-18T09:12:00.000Z",
+    "updatedAt": "2025-12-18T09:12:00.000Z"
+  },
+  {
+    "id": "55c0abac-46ce-46ca-a017-476ca0005b7b",
+    "name": "Add your name in the body",
+    "description": "",
+    "sector": "Unknown",
+    "status": "draft",
+    "createdAt": "2025-12-19T07:18:39.182Z",
+    "updatedAt": "2025-12-19T07:18:59.378Z"
+  }
+]
