@@ -18,7 +18,7 @@ to keep the implementation simple and focused on backend fundamentals.
 
 # 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/gevidence-mvp-api.git
+git clone https://github.com/dayosama0/web2.1
 cd gevidence-mvp-api
 
 # 2. Install dependencies
